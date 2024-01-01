@@ -1,4 +1,4 @@
-- 🔭 **I’m currently working on:** While I'm going through FreeCodeCamp, I have a project that I am going to be building for a friend's business. What better way to help reinforce what I'm learning and push myself forward than with a real world project?
+- 🔭 **I’m currently working on:** While I'm going through FreeCodeCamp, I have a project that I am going to be building for a friend's business. What better way to help reinforce what I'm learning and push myself forward than with a real world project? I'm going to create a repository for it and it will be open for all the view and provide feedback.
 - 🌱 **I’m currently learning:** It's been awhile since I've truly taken coding seriously. So I'm going back to the basics with FreeCodeCamp.
 - 💬 **Ask me about:** anything you would like to know!
 - 📫 **How to reach me:** [Twitter/X](https://twitter.com/kylejohnsondev) | [Facebook](https://www.facebook.com/kylejohnsoncoding) | [Bluesky](https://bsky.app/profile/kylejohnson.bsky.social) | [LinkedIn](https://www.linkedin.com/in/kylejohnsondev/)
