@@ -1,5 +1,3 @@
-# KyleJohnsonDev
-
 - 🔭 I’m currently working on: While I'm going through FreeCodeCamp, I have a project that I am going to be building for a friend's business. What better way to help reinforce what I'm learning and push myself forward than with a real world project?
 - 🌱 I’m currently learning: It's been awhile since I've truly taken coding seriously. So I'm going back to the basics with FreeCodeCamp.
 - 💬 Ask me about anything you would like to know!
